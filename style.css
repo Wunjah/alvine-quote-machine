@@ -1,11 +1,11 @@
 body {
-    background-color: white;
+    background-color: #7a3333;
     font-family: Arial, sans-serif;
     text-align: center;
   }
   
   #quote-box {
-    background-color: #7a3333;
+    background-color: white;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     margin: 50px auto;
@@ -47,6 +47,6 @@ body {
     padding: auto;
   }
   p{
-    color: white;
+    color:#7a3333;
     font-size: 20px;
   }
