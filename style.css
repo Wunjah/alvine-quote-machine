@@ -42,9 +42,14 @@ body {
   button{
     background-color: #10da10;
     color: rgb(224, 236, 224);
-    width: 80px;
+    width: 100px;
     height: 50px;
     padding: auto;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    margin-bottom: 1px;
+    margin-top: 24px;
+    cursor: pointer;
   }
   p{
     color:#7a3333;
